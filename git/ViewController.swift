@@ -15,7 +15,6 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
         print("manoj commt")
         print("Manjunath Commit")
-         print("Manjunath Commit")
     }
 
     override func didReceiveMemoryWarning() {
